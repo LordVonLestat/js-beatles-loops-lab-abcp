@@ -6,5 +6,7 @@ function theBeatlesPlay(musicians, instruments) {
   return arr
 }
 function johnLennonFacts(facts) {
-   const expfacts
+   const expfacts = []
+   let i = 0
+   while()
 }
