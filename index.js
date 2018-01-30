@@ -9,7 +9,7 @@ function johnLennonFacts(facts) {
    const expfacts = []
    let i = 0
    while(i < expfacts.length) {
-     expfacts.push(`${facts}!!!`)
+     expfacts.push(`${facts[i]}!!!`)
      i++
    }
    return facts
