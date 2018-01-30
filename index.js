@@ -12,5 +12,5 @@ function johnLennonFacts(facts) {
      expfacts.push(`${facts[i]}!!!`)
      i++
    }
-   return facts
+   return expfacts
 }
